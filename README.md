@@ -1,11 +1,11 @@
-# Sakila DVD Rental Database Analysis
+# SQL DVD Rental Database Analysis
 
 ## Description
 The database is gotten from postgreSQL sample database which can be found [here]('https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/).\
-The data represent the business data of a dvd rental store (sakila). 
+The data represent the business data of a dvd rental store. 
 
 ## Database ERD
-The database Entity Relationship Diagram (ERD) is shown below and is also enclosed as a file in this repo.
+The database Entity Relationship Diagram (ERD) is shown below and is also enclosed as a file in this repo (*dvd-rental-erd*).
 ![image](https://github.com/UChisom/sakila-dvd-rental-analysis/blob/master/dvd-rental-erd.png?raw=true)
 
 ## Database Tables
