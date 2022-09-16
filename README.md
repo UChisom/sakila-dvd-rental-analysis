@@ -1,7 +1,7 @@
 # SQL DVD Rental Database Analysis
 
 ## Description
-The database is gotten from postgreSQL sample database which can be found [here]('https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/').\
+The database is gotten from postgreSQL sample database which can be found [here](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/).\
 The data represent the business data of a dvd rental store. 
 
 ## Database ERD
@@ -37,4 +37,4 @@ To load the database and run locally, follow the steps below for postgres (using
 - Click restore and let it load
 
 ## More resources
-To load the database using **psql** commands instead, follow this [guide]('https://www.postgresqltutorial.com/postgresql-getting-started/load-postgresql-sample-database/').
+To load the database using **psql** commands instead, follow this [guide](https://www.postgresqltutorial.com/postgresql-getting-started/load-postgresql-sample-database/).
